@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "269400053777",
+    "firebase_url": "https://witparkingapp.firebaseio.com",
+    "project_id": "witparkingapp",
+    "storage_bucket": "witparkingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269400053777:android:37f0dc8d2e7ac6724c79b0",
+        "android_client_info": {
+          "package_name": "ie.wit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269400053777-h0nlf60h1cdti6eu0u3t88d7oislanou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.wit",
+            "certificate_hash": "71da66d55f8b20946ff198ec43917cbcb69bca67"
+          }
+        },
+        {
+          "client_id": "269400053777-326odsmnmt415nd2j8kpaf591q5pu8j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNyPeOv-K5snl02PiDaUFBDN16ezgpNr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269400053777-326odsmnmt415nd2j8kpaf591q5pu8j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

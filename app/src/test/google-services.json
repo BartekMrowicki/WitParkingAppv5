@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "78145967925",
+    "firebase_url": "https://witparkingappv3.firebaseio.com",
+    "project_id": "witparkingappv3",
+    "storage_bucket": "witparkingappv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78145967925:android:1e5094a0188e7cdadd9e7c",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78145967925-io490iu9naj6aptn0o7su8sbau1lmph6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzBEDJpV08tFbSNja-9CW07Ny4f5gYF9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78145967925-io490iu9naj6aptn0o7su8sbau1lmph6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
